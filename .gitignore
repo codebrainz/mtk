@@ -1,0 +1,8 @@
+*.[ao]
+*.so
+*.dylib
+*.dll
+*.lib
+/misc/
+/build/
+makefile.deps
